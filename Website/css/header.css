@@ -1,6 +1,6 @@
 
 .hero-section {
-  background: url("https://static.pexels.com/photos/248064/pexels-photo-248064.jpeg") 50% no-repeat;
+  background: url("https://cdn.wallpapersafari.com/85/12/0pdtzP.jpg") 50% no-repeat;
   background-size: cover;
   height: 60vh;
   text-align: center;
@@ -16,6 +16,6 @@
 }
 
 .hero-section .hero-section-text {
-  color: #fefefe;
-  text-shadow: 1px 1px 2px #0a0a0a;
+  color: #ffcc00;
+  text-shadow: 5px 5px 6px #0a0a0a;
 }
